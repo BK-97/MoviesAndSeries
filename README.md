@@ -1,6 +1,4 @@
-# BulutMD-Test
-Test project for BulutMD
-Project start date: 13.11.2020
+# Movies&Series
 
 # 13.11.2020 and 14.11.2020
 
